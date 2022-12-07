@@ -1,0 +1,1276 @@
+html,
+body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+
+}
+@media (max-width: 414px) {
+  h2 {
+    font-size: 24px;
+    line-height: 39px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  .hometext {
+    font-size: 20px;
+  }
+
+  .fea-base {
+    font-size: 19px;
+
+  }
+  .fotoerres{
+    width: 50%;
+    margin-bottom: 30px;
+  }
+  .fea-para {
+    width: 350px;
+    font-size: 16px;
+
+  }
+
+  .reasonar-box {
+    width: auto;
+    font-size: 20px;
+    margin-left: -20px;
+  }
+
+  .reasonar-right {
+    width: auto;
+    font-size: 18px;
+    margin-left: 5px;
+    margin-top: -100px;
+  }
+
+  .reasonar-b {
+    margin-left: -50px;
+  }
+
+  .reasonar-b .li .para {
+    width: 350px;
+    font-size: 14px;
+  }
+
+  .card {
+    margin-left: 35px;
+  }
+
+  .mid_bolder {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .formbox2 {
+    width: 385px;
+    height: 590px;
+  }
+
+  .btn3 {
+    width: 250px;
+  }
+
+  .fw-bolder {
+    font-size: 18px;
+  }
+
+  .middle-right2 {
+    margin-left: 40px;
+
+  }
+
+  .break2 {
+    justify-content: center;
+  }
+
+
+  .abouth {
+    margin-left: -70px;
+    font-size: 20px;
+  }
+
+  h1.abouth2 {
+    width: 200px;
+    margin-left: -90px;
+    font-size: 30px;
+    line-height: 59px;
+  }
+  .about4para {
+
+    font-size: 16px;
+  }
+  .listhead {
+    width: 700px;
+    font-size: 16px;
+    line-height: 140%;
+    margin-left: -70px;
+  }
+
+  .image7 {
+    margin-top: -50px;
+    margin-left: 50px;
+  }
+
+  .image8 {
+    margin-top: -120px;
+    margin-right: 50px;
+  }
+
+  .image21 {
+    margin-top: -20px;
+    margin-left: 30px;
+  }
+
+  .about-left {
+    width: auto;
+    margin-left: 10px;
+    font-size: 18px;
+    margin-top: -100px;
+  }
+
+  .aboutpara2 {
+    width: auto;
+    font-size: 14px;
+    margin-bottom: 50px;
+  }
+
+  .btn_about {
+    margin-top: -50px;
+    margin-bottom: -50px;
+  }
+
+  .about4-left {
+    margin-top: 10px;
+    font-size: 22px;
+  }
+
+  .about-left5 {
+    font-size: 22px;
+    width: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .aboutpara5 {
+    font-size: 14px;
+  }
+  .nav-item {
+    padding: 14px;
+  }
+  .contactth {
+    width: 250px;
+    margin-left: -130px;
+    font-size: 20px;
+  }
+
+  h1.contactth2 {
+    width: 250px;
+    margin-left: -130px;
+    font-size: 30px;
+    line-height: 39px;
+  }
+
+  h5.onlineh {
+    font-size: 18px;
+
+  }
+
+  h1.onlineh2 {
+    font-size: 25px;
+    line-height: 39px;
+  }
+
+  .serviceon-left {
+    font-size: 20px;
+    margin-top: -50px;
+  }
+
+  .services-b {
+    font-size: 16px;
+
+  }
+
+  .servicesec2 .row {
+    flex-direction: column;
+  }
+
+  .boxonline {
+    margin-left: 0px;
+  }
+
+  .service-bolder {
+    font-size: 20px;
+
+  }
+
+  .btn4 {
+    margin-left: 30px;
+
+  }
+
+  .card5 {
+    margin-left: 30px;
+  }
+
+  .serviceonline-bolder {
+    font-size: 22px;
+  }
+
+  .card3 {
+    margin-left: 50px;
+  }
+
+  .service6 .row {
+    flex-direction: column;
+
+  }
+
+  .section6_bolder {
+    width: auto;
+    font-size: 25px;
+  }
+
+  .service-step1 {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .parestep1 {
+    width: auto;
+    font-size: 15px;
+
+  }
+  .address3 {
+    width:360px;
+    
+  }
+  .parali {
+    width: auto;
+    font-size: 16px;
+
+  }
+
+  .servicesregistration-head {
+    font-size: 24px;
+  }
+
+  .serviceon-left {
+    width: auto;
+  }
+
+  .services-bhead {
+    width: auto;
+    font-size: 26px;
+  }
+
+  .section8_bolder {
+    width: auto;
+    font-size: 25px;
+  }
+
+  .service-step2 {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .sec9_bolder {
+    width: auto;
+    font-size: 25px;
+  }
+
+  .services-li5 {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .parali6 {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .paranew {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .Ngohead {
+    width: auto;
+    font-size: 22px;
+  }
+
+  .parestepNgo {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .services-li10 {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .services-bheadMSME {
+    width: auto;
+    font-size: 22px;
+  }
+
+  .li12M {
+    width: auto;
+    font-size: 17px;
+  }
+
+  .sectionbook_bolder {
+    font-size: 18px;
+    width: auto;
+  }
+
+  .parestepbook {
+    width: auto;
+    font-size: 14px;
+  }
+
+  .li8book {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .btn7 {
+    margin-left: 70px;
+  }
+
+  .IEC-box {
+    font-size: 20px;
+    width: auto;
+  }
+
+  .btn5 {
+    margin-left: 50px;
+  }
+
+  .section6_bolderBook {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .service-step1Book {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .parestep1Book {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .li8Book {
+    font-size: 16px;
+  }
+
+  .section6_bolder {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .li13 {
+    width: auto;
+    font-size: 17px;
+  }
+
+  .services-bhead {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .fsaipara {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .li12 {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .paraaboutGST {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .services-li4 {
+    width: auto;
+    font-size: 17px;
+  }
+
+  .li4 {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .paraabout {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .services-rochead {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .parali6roc {
+    width: 350px;
+  }
+
+  .li14 {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .sectionroc-bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .demo2roc {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .services-rochead {
+    width: 350px;
+    font-size: 18px;
+  }
+
+  .li6roclist {
+    width: 370px;
+    font-size: 17px;
+  }
+
+  .sectiontred_bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .services-tred {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .sectiontrad_bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .sectiontrad2_bolder {
+    width: 400px;
+    font-size: 20px;
+  }
+
+
+
+  .cont-headsm::before {
+
+    margin-left: 75px;
+
+  }
+
+  .cont-headsm::after {
+
+    margin-left: 235px;
+
+  }
+
+  .row .iconm {
+    display: flex;
+  }
+
+  .row .blog3 {
+    display: flex;
+  }
+
+  .blog-left {
+    width: 400px;
+    font-size: 20px;
+    margin-left: 0px;
+  }
+
+  .para12 {
+    margin-left: 0px;
+  }
+
+  h1.aboutblog {
+    width: auto;
+    margin-left: 0px;
+    font-size: 20px;
+    line-height: 39px;
+  }
+
+  .aboutblog2 {
+    margin-left: -30px;
+    font-size: 20px;
+  }
+
+  .blogpara4 {
+    width: auto;
+  }
+
+  .row .sand {
+    justify-content: center;
+
+  }
+
+  .post-view1 {
+    margin-left: 10px;
+  }
+
+  .sectionGST_bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .parareg {
+    width: auto;
+  }
+  section{
+    flex-direction: column;
+  }
+  .navbar2 {
+    margin-left:150px;
+    
+  }
+  .imagelog {
+    height:100%;
+    width: 100%;
+    
+  }
+  .form-control {
+    width: 100%;
+    
+  }
+  
+  .right2 {
+  
+    margin-left: 30px;
+   
+  }
+  .nav-item{
+    padding: 14px;
+  }
+  .start {
+    margin-left: 30px;
+   
+  }
+  
+  .create {
+   margin-left:40px;
+   font-size: 25px;
+  }
+  .start8 {
+    margin-left: 80px;
+   
+  }
+  .links{
+    margin-bottom: 80px;
+  }
+  .create8 {
+    margin-top: 70px;
+   
+   margin-left:80px;
+   font-size: 25px;
+  }
+  .start3{
+    margin-left: 50px;
+  }
+  .fea-box4{
+    margin-left: 150px;
+  }
+  .create3{
+    margin-left: 100px;
+  }
+  .btnlog2{
+    width: 280px;
+    margin-left: 50px;
+  }
+  .sdlinks{
+    margin-left: 30px;
+  }
+  .backlinks{
+    margin-left: 100px;
+  }
+  .btnlog {
+   width: 280px;
+    margin-left: 30px;
+  }
+  
+  .footer {
+    margin-left: 80px;
+  }
+  .create4{
+    margin-left: 50px;
+  }
+  .form-group3{
+    width: 250px;
+    margin-left: 20px;
+  }
+  .btn{
+    margin-left: 130px;
+  }
+  .services-rocCA {
+    width: 370px;
+    font-size: 20px;
+  }
+
+  .parali6roc {
+    width: 370px;
+    font-size: 16px;
+  }
+  .create5{
+    margin-left: 50px;
+  }
+  .start9{
+    margin-left: 90px;
+  }
+  .start10 {
+   
+    margin-left: 20px;
+}
+}
+@media (max-width: 360px) {
+  .fotoerres{
+    width: 60%;
+    margin-bottom: 10px;
+  }
+  h2 {
+    font-size: 20px;
+    line-height: 39px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  .hometext {
+    font-size: 20px;
+  }
+
+  .fea-base {
+    font-size: 19px;
+
+  }
+
+  .fea-para {
+    width: auto;
+    font-size: 16px;
+
+  }
+
+  .reasonar-box {
+    width: auto;
+    font-size: 18px;
+    margin-left: -20px;
+  }
+
+  .reasonar-right {
+    width: auto;
+    font-size: 17px;
+    margin-left: 5px;
+    margin-top: -100px;
+  }
+
+  .reasonar-b {
+    margin-left: -50px;
+  }
+
+  .reasonar-b .li .para {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .card {
+    margin-left: 0px;
+    width: auto;
+  }
+
+  .mid_bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .formbox2 {
+    width: 335px;
+    height: 590px;
+  }
+
+  .btn3 {
+    width: 250px;
+  }
+
+  .fw-bolder {
+    font-size: 18px;
+  }
+
+  .middle-right2 {
+    margin-left: 40px;
+
+  }
+
+  .break2 {
+    justify-content: center;
+  }
+
+  .abouth {
+  
+    margin-left: -90px;
+    font-size: 20px;
+  }
+
+  h1.abouth2 {
+    width: 200px;
+    margin-left: -110px;
+    font-size: 30px;
+    line-height: 59px;
+  }
+
+  .listhead {
+    width: 700px;
+    font-size: 16px;
+    line-height: 140%;
+    margin-left: -70px;
+  }
+
+  .image7 {
+    margin-top: -50px;
+    margin-left: 50px;
+  }
+
+  .image8 {
+    margin-top: -120px;
+    margin-right: 50px;
+  }
+
+  .image21 {
+    margin-top: -20px;
+    margin-left: 30px;
+  }
+
+  .about-left {
+    width: auto;
+    margin-left: 10px;
+    font-size: 18px;
+    margin-top: -100px;
+  }
+
+  .aboutpara2 {
+    width: auto;
+    font-size: 16px;
+    margin-bottom: 50px;
+  }
+
+  .btn_about {
+    margin-top: -50px;
+    margin-bottom: -50px;
+  }
+  .about4para {
+
+    font-size: 16px;
+  }
+  .about4-left {
+    margin-top: 10px;
+    font-size: 22px;
+  }
+
+  .about-left5 {
+    font-size: 22px;
+    width: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .formbox2 {
+    width: 335px;
+    height: 590px;
+  }
+
+
+  .aboutpara5 {
+    font-size: 16px;
+  }
+
+  .contactth {
+    width: 250px;
+    margin-left: -130px;
+    font-size: 20px;
+  }
+
+  h1.contactth2 {
+    width: 250px;
+    margin-left: -130px;
+    font-size: 30px;
+    line-height: 39px;
+  }
+
+  h5.onlineh {
+    font-size: 18px;
+
+  }
+
+  h1.onlineh2 {
+    font-size: 25px;
+    line-height: 39px;
+  }
+
+  .serviceon-left {
+    font-size: 20px;
+    margin-top: -50px;
+  }
+
+  .services-b {
+    font-size: 16px;
+
+  }
+
+  .servicesec2 .row {
+    flex-direction: column;
+  }
+
+  .boxonline {
+    margin-left: 0px;
+  }
+
+  .service-bolder {
+    font-size: 20px;
+
+  }
+
+  .btn4 {
+    width: auto;
+    margin-left: 0px;
+
+  }
+
+  .card5 {
+    width: auto;
+    margin-left: 0px;
+  }
+
+  .serviceonline-bolder {
+    font-size: 20px;
+  }
+
+  .card3 {
+    margin-left: 30px;
+  }
+
+  .service6 .row {
+    flex-direction: column;
+
+  }
+  .li6roclist {
+    width: 340px;
+    font-size: 15px;
+  }
+  .section6_bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .service-step1 {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .parestep1 {
+    width: auto;
+    font-size: 15px;
+
+  }
+
+  .parali {
+    width: auto;
+    font-size: 16px;
+
+  }
+
+  .servicesregistration-head {
+    font-size: 24px;
+  }
+
+  .serviceon-left {
+    width: auto;
+  }
+
+  .services-bhead {
+    width: auto;
+    font-size: 26px;
+  }
+
+  .section8_bolder {
+    width: auto;
+    font-size: 25px;
+  }
+
+  .service-step2 {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .sec9_bolder {
+    width: auto;
+    font-size: 25px;
+  }
+
+  .services-li5 {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .parali6 {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .paranew {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .Ngohead {
+    width: auto;
+    font-size: 22px;
+  }
+
+  .parestepNgo {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .services-li10 {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .services-bheadMSME {
+    width: auto;
+    font-size: 22px;
+  }
+
+  .li12M {
+    width: auto;
+    font-size: 17px;
+  }
+
+  .sectionbook_bolder {
+    font-size: 18px;
+    width: auto;
+  }
+
+  .parestepbook {
+    width: auto;
+    font-size: 14px;
+  }
+
+  .li8book {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .btn7 {
+    margin-left: 70px;
+  }
+
+  .IEC-box {
+    font-size: 20px;
+    width: auto;
+  }
+
+  .btn5 {
+    margin-left: 30px;
+  }
+
+  .section6_bolderBook {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .service-step1Book {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .parestep1Book {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .li8Book {
+    font-size: 16px;
+  }
+
+  .section6_bolder {
+    width: auto;
+    font-size: 18px;
+  }
+
+  .li13 {
+    width: auto;
+    font-size: 17px;
+  }
+
+  .services-bhead {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .fsaipara {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .li12 {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .paraaboutGST {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .services-li4 {
+    width: auto;
+    font-size: 17px;
+  }
+
+  .li4 {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .paraabout {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .services-rocCA {
+    width: 320px;
+    font-size: 19px;
+  }
+
+  .parali6roc {
+    width: 330px;
+    font-size: 16px;
+  }
+
+  .li14 {
+    width: auto;
+    font-size: 15px;
+  }
+
+  .sectionroc-bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .demo2roc {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .services-rochead {
+    width: 400px;
+    font-size: 18px;
+  }
+
+  .li6roc {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .sectiontred_bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .services-tred {
+    width: auto;
+    font-size: 16px;
+  }
+
+  .sectiontrad_bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .sectiontrad2_bolder {
+    width: 350px;
+    font-size: 20px;
+  }
+
+  .cont-headsm::before {
+
+    margin-left: 75px;
+
+  }
+
+  .cont-headsm::after {
+
+    margin-left: 235px;
+
+  }
+
+  .row .iconm {
+    display: flex;
+  }
+
+  .row .blog3 {
+    display: flex;
+  }
+
+  .blog-left {
+    width: 360px;
+    font-size: 18px;
+    margin-left: 0px;
+  }
+
+  .para12 {
+    margin-left: 0px;
+  }
+
+  h1.aboutblog {
+    width: auto;
+    margin-left: 0px;
+    font-size: 20px;
+    line-height: 39px;
+  }
+
+  .aboutblog2 {
+    margin-left: -30px;
+    font-size: 20px;
+  }
+
+  .blogpara4 {
+    width: auto;
+  }
+  .address3 {
+    width:330px;
+    
+  }
+  .address2 {
+    width:330px;
+    margin-left: 5px;
+  }
+  .row .sand {
+    justify-content: center;
+
+  }
+
+  .post-view1 {
+    margin-left: 10px;
+  }
+
+  .sectionGST_bolder {
+    width: auto;
+    font-size: 20px;
+  }
+
+  .parareg {
+    width: auto;
+  }
+  .blogpara2{
+    width: 330px;
+    font-size: 16px;
+  }
+  section{
+    flex-direction: column;
+  }
+  .navbar2 {
+    margin-left:160px;
+    
+  }
+  .imagelog {
+    height:100%;
+    width: 100%;
+    
+  }
+  .form-control {
+    width: 100%;
+    
+  }
+  
+  .right2 {
+  
+    margin-left: 30px;
+   
+  }
+  
+  .start {
+    margin-left: 30px;
+   
+  }
+  
+  .create {
+   margin-left:40px;
+   font-size: 25px;
+  }
+  
+  .btnlog {
+   width: 280px;
+    margin-left: 30px;
+  }
+  .start8 {
+    margin-left: 80px;
+   
+  }
+  .links{
+    margin-bottom: 80px;
+  }
+  .create8 {
+    margin-top: 70px;
+   
+   margin-left:80px;
+   font-size: 25px;
+  }
+  .start3{
+    margin-left: 30px;
+  }
+  .start9{
+    margin-left: 70px;
+  }
+  .fea-box4{
+    margin-left: 120px;
+  }
+  .create3{
+    margin-left: 70px;
+  }
+  .btnlog2{
+    width: 270px;
+    margin-left: 40px;
+  }
+  .sdlinks{
+    margin-left: 20px;
+  }
+  .backlinks{
+    margin-left: 60px;
+  }
+  .footer {
+    margin-left: 80px;
+  }
+  .create4{
+    margin-left: 30px;
+  }
+  .form-group3{
+    width: 250px;
+    margin-left: 20px;
+  }
+  .create5{
+    margin-left: 30px;
+  }
+  .start10 {
+    margin-left: 0px;
+}
+}
+
+
+
